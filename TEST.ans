@@ -1,0 +1,52 @@
+Route #1: 7 0 34 29 6 82 77 0 
+Capacity #1: 210  Overload!
+Route #2: 6 0 73 54 86 22 0 
+Capacity #2: 209  Overload!
+Route #3: 6 0 85 70 1 41 0 
+Capacity #3: 213  Overload!
+Route #4: 6 0 33 74 13 4 0 
+Capacity #4: 204
+Route #5: 7 0 32 49 42 28 14 0 
+Capacity #5: 211  Overload!
+Route #6: 6 0 21 62 83 97 0 
+Capacity #6: 205
+Route #7: 6 0 95 90 84 18 0 
+Capacity #7: 203
+Route #8: 6 0 11 43 48 3 0 
+Capacity #8: 206
+Route #9: 6 0 24 51 81 91 0 
+Capacity #9: 204
+Route #10: 5 0 100 52 61 0 
+Capacity #10: 211  Overload!
+Route #11: 6 0 46 78 10 39 0 
+Capacity #11: 207  Overload!
+Route #12: 6 0 50 99 71 19 0 
+Capacity #12: 202
+Route #13: 7 0 96 26 98 89 27 0 
+Capacity #13: 214  Overload!
+Route #14: 5 0 30 16 35 0 
+Capacity #14: 211  Overload!
+Route #15: 7 0 23 87 72 67 88 0 
+Capacity #15: 205
+Route #16: 6 0 80 76 66 12 0 
+Capacity #16: 208  Overload!
+Route #17: 7 0 94 47 92 68 15 0 
+Capacity #17: 209  Overload!
+Route #18: 6 0 17 57 60 59 0 
+Capacity #18: 204
+Route #19: 5 0 75 55 5 0 
+Capacity #19: 206
+Route #20: 7 0 56 38 45 37 40 0 
+Capacity #20: 208  Overload!
+Route #21: 6 0 58 69 9 20 0 
+Capacity #21: 207  Overload!
+Route #22: 6 0 79 65 25 63 0 
+Capacity #22: 209  Overload!
+Route #23: 7 0 44 7 2 36 64 0 
+Capacity #23: 191
+Route #24: 4 0 31 8 0 
+Capacity #24: 193
+Route #25: 4 0 53 93 0 
+Capacity #25: 197
+Cost: 39598
+Number of overload vehicles: 13
